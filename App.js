@@ -1,4 +1,4 @@
-
+import React from 'react'
 import NewReg from './NewReg'
 const App = () => {
  
